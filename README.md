@@ -2,6 +2,7 @@
 
 - 😄 I'm a full stack software developer graduated from UBC
 - 🌱 I’m currently studying MERN full stack technologies
+- 👯 I’m previously working in Zevnodata as full stack software developer and in Siemens as Test Automation Engineer
 - 📫 How to reach me: felixchen511@gmail.com
 
 
