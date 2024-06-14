@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 I'm a full stack software developer graduated from UBC
+- 😄 I'm a passionate software developer graduated from UBC
 - 🌱 I’m currently studying MERN full stack technologies
 - 👯 I’m working in idi-itech as software developer and previously working  in Siemens as Test Automation Engineer 
 - 📫 How to reach me: felixchen511@gmail.com
